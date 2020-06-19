@@ -21,11 +21,11 @@ Hi {}, my name is {}!
 
 I am a group manager bot maintained by @Abhinav_Official 
 
-My future updates will be put into This Channel - @ShinchanNews.
+To add me to your group click ["HERE"](http://t.me/Shinchan_RoBot?startgroup=true)
 
-To add me to your group click ["HERE"](t.me/Shinchan_RoBot?startgroup=botstart)
 You can find my list of available commands with /help.
 
+My future updates will be put into This Channel - @ShinchanNews.
 The support group chat is at {}.
 """
 
