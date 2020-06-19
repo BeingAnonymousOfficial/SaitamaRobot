@@ -21,8 +21,6 @@ Hi {}, my name is {}!
 
 I am a group manager bot maintained by @Abhinav_Official 
 
-To add me to your group click ["HERE"](http://t.me/Shinchannews?startgroup=botstart)
-
 You can find my list of available commands with /help.
 
 My future updates will be put into This Channel - @ShinchanNews.
