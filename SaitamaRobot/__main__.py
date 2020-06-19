@@ -19,9 +19,7 @@ from SaitamaRobot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hi {}, my name is {}! 
 
-I am a group manager bot maintained by @Abhinav_Official 
-To add me to your group click Below
-t.me/ShinchanProBot?startgroup=true
+I am a group manager bot maintained by {}!  
 
 You can find my list of available commands with /help.
 
