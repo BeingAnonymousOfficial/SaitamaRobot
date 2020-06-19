@@ -21,7 +21,7 @@ Hi {}, my name is {}!
 
 I am a group manager bot maintained by @Abhinav_Official 
 
-To add me to your group click ["HERE"](http://t.me/Shinchan_RoBot?startgroup=true)
+To add me to your group click  ["HERE"](t.me/Shinchan_Robot?startgroup=botstart)
 
 You can find my list of available commands with /help.
 
