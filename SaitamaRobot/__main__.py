@@ -20,7 +20,7 @@ PM_START_TEXT = """
 Hi {}, my name is {}! 
 
 I am a group manager bot maintained by @Abhinav_Official 
-To add me to your group click ["HERE"](t.me/Shinchan_Robot?startgroup=true)
+To ask me doubts regarding bot click ["HERE"](t.me/beinganonymousbot)
 
 You can find my list of available commands with /help.
 
