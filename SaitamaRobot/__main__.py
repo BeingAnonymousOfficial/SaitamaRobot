@@ -22,6 +22,8 @@ Hi {}, my name is {}!
 I am a group manager bot maintained by {}!  
 
 To add me to your group click ["HERE"](t.me/ShizukaRobot?startgroup=botstart)
+You can find my list of available commands with /help.
+To add me to your group click ["HERE"](t.me/ShizukaRobot?startgroup=botstart)
 
 You can find my list of available commands with /help.
 
