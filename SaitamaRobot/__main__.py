@@ -17,17 +17,13 @@ from SaitamaRobot.modules.helper_funcs.chat_status import is_user_admin
 from SaitamaRobot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
+PM_START_TEXT = """
 Hi {}, my name is {}! 
-
-I am a group manager bot maintained by {}!  
-
+I am an Anime themed group management bot.
 To add me to your group click ["HERE"](t.me/ShizukaRobot?startgroup=botstart)
 You can find my list of available commands with /help.
-To add me to your group click ["HERE"](t.me/ShizukaRobot?startgroup=botstart)
-
-You can find my list of available commands with /help.
-
-My future updates will be put into This Channel - @ShinchanNews.
+[Saitama's Repo](github.com/AnimeKaizoku/SaitamaRobot) 
+See [Basic Configuration Checklist](t.me/OnePunchUpdates/29) on how to secure your group.
 The support group chat is at {}.
 """
 
